@@ -2,8 +2,19 @@
 
 <h2>👨‍💻 BMED Projects:</h2>
 
+- Medical Robotics Club
+
 <h2>📺 Coding Projects:</h2>
 
 - [Changbal Hackathon 2026 Website: Cadence](https://cadence-for-me.lovable.app/)
 
-<h2>Certifications:</h2>
+- [Streamlit Websites 1: Portfolio](https://homepagepy-q7pqrxgndrslevqo6auuq6.streamlit.app/)
+- [Streamlit Websites 2: Art Museum](https://gtlab02-k5cqgvkrsm69ulj4ifkp9e.streamlit.app/)
+
+<h2>Courses:</h2>
+
+- BMED
+
+- CS
+
+- MATH
