@@ -11,10 +11,6 @@
 - [Streamlit Websites 1: Portfolio](https://homepagepy-q7pqrxgndrslevqo6auuq6.streamlit.app/)
 - [Streamlit Websites 2: Art Museum](https://gtlab02-k5cqgvkrsm69ulj4ifkp9e.streamlit.app/)
 
-<h2>Courses:</h2>
+<h2>Personal:</h2>
 
-- BMED
-
-- CS
-
-- MATH
+- Random Research
